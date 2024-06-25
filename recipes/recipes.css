@@ -1,0 +1,21 @@
+body {
+  background-color: #1e1e2e;
+  color: #cdd6f4;
+  font-family: monospace;
+  font-size: 14px;
+}
+
+img {
+  width: 200px;
+  height: auto;
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #a6adc8;
+}
+
+a:hover {
+  text-decoration: underline;
+}

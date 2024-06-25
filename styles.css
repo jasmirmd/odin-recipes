@@ -1,0 +1,19 @@
+body {
+  background-color: #1e1e2e;
+  color: #cdd6f4;
+  font-family: monospace;
+  font-size: 14px;
+}
+
+.link {
+  color: #a6adc8;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.link:visited {
+  color: #9399b2;
+}
