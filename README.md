@@ -5,7 +5,7 @@ First project following the course of [The Odin Project](https://www.theodinproj
 
 ![demo](public/demo-preview.png)
 
-[View Live Preview](https://jasmirmd.github.io/odin-recipes/)
+[View Live Demo](https://jasmirmd.github.io/odin-recipes/)
 
 ### Resources:
 - [All Recipes](https://www.allrecipes.com/)
