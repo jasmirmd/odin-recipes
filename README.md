@@ -1,4 +1,4 @@
-# Odin Recipes
+# Recipes
 First project following the course of [The Odin Project](https://www.theodinproject.com), a simple recipe page as a practice of basic html and basic css.
 
 ## Live Demo:
